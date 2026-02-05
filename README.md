@@ -10,27 +10,22 @@ These are some of the major technologies that I use or have worked on in the pas
 
 #### Programming Languages :computer:
 
-<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png">|
-<img title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">|
-<img title="Cpp" alt="Cpp" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png">|
-<img title="XML" alt="XML" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/xml/xml.png">
+<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png">|<img title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">|<img title="Cpp" alt="Cpp" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png">|<img title="XML" alt="XML" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/xml/xml.png">
 |--|--|--|--|
 
 <br>  <!-- extra whitespace -->
 
 #### Tools :wrench:
 
-<img title="Arch" alt="Arch" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/archlinux/archlinux.png" />
-<img title="Nvim" alt="Nvim" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/neovim/neovim.png" />
-<img title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />
-<img title="Ros2" alt="Ros2" width="40px" src="https://skillicons.dev/icons?i=ros" />
+<img title="Arch" alt="Arch" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/archlinux/archlinux.png">|<img title="Nvim" alt="Nvim" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/neovim/neovim.png">|<img title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">|<img title="Ros2" alt="Ros2" width="40px" src="https://skillicons.dev/icons?i=ros">
+|--|--|--|--|
 
 <br>  <!-- extra whitespace -->
 
 #### Learning next :notebook_with_decorative_cover:
 
-<img title="Cpp" alt="Cpp" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png" />
-<img title="Ros" alt="Ros" width="40px" src="https://skillicons.dev/icons?i=ros" />
+<img title="Cpp" alt="Cpp" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png">|<img title="Ros" alt="Ros" width="40px" src="https://skillicons.dev/icons?i=ros">
+|--|--|
 
 ## Projects :rocket:
 
@@ -48,8 +43,8 @@ Trains YOLO models and ingests RTSP streams to deliver real-time detection and p
 
 ## Let's Connect :handshake:
 
-<img title="Mail" alt="Mail" width="40px" src="https://img.icons8.com/fluency/48/000000/new-post.png" />
-<img title="Linkedin" alt="Linkedin" width="40px" src="https://img.icons8.com/fluency/48/000000/linkedin.png" />
+<img title="Mail" alt="Mail" width="40px" src="https://img.icons8.com/fluency/48/000000/new-post.png">|<img title="Linkedin" alt="Linkedin" width="40px" src="https://img.icons8.com/fluency/48/000000/linkedin.png">
+|--|--|
 
 **Email:** [kasper@skobba.no](mailto:kasper@skobba.no)
 
