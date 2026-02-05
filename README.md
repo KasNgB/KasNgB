@@ -10,10 +10,10 @@ These are some of the major technologies that I use or have worked on in the pas
 
 #### Programming Languages :computer:
 
-<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
-<img title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png" />
-<img title="Cpp" alt="Cpp" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png" />
-<img title="XML" alt="XML" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/xml/xml.png" />
+<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png">|
+<img title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">|
+<img title="Cpp" alt="Cpp" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png">|
+<img title="XML" alt="XML" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/xml/xml.png">|
 |--|--|--|--|
 
 <br>  <!-- extra whitespace -->
