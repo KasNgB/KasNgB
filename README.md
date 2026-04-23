@@ -41,6 +41,16 @@ Trains YOLO models and ingests RTSP streams to deliver real-time detection and p
 
 **Repo:** [objective_db](https://github.com/KasNgB/objective_db)
 
+#### Chess in C++
+
+Chess implementation built from scratch (ongoing project)
+
+**Repo:** [chess](https://github.com/BrouZie/chess)
+
+Trains YOLO models and ingests RTSP streams to deliver real-time detection and position feedback for people/objects.
+
+**Repo:** [objective_db](https://github.com/KasNgB/objective_db)
+
 ## Let's Connect :handshake:
 
 <img title="Mail" alt="Mail" width="40px" src="https://img.icons8.com/fluency/48/000000/new-post.png">|<img title="Linkedin" alt="Linkedin" width="40px" src="https://img.icons8.com/fluency/48/000000/linkedin.png">
